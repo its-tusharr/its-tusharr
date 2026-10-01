@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: RAG-Based AI Teaching Assistant & Data Science Projects and Data Analytics as well<br><br>👯 I’m looking to collaborate on: Data Science, Machine Learning & Open Source Projects<br><br>🤝 I’m looking for help with: Deep Learning, MLOps and Generative AI<br><br>🌱 I’m currently learning: Machine Learning, Generative AI, FastAPI & Power BI<br><br>💬 Ask me about: Python, SQL, Data Analytics, Machine Learning and Git<br><br>⚡ Fun fact: I love turning raw data into meaningful insights and building real-world AI solutions.
+🔭 I’m currently working on: Data Science Projects and Data Analytics as well<br><br>👯 I’m looking to collaborate on: Data Science, Machine Learning & Open Source Projects<br><br>🤝 I’m looking for help with: Deep Learning, MLOps and Generative AI<br><br>🌱 I’m currently learning: Machine Learning, Generative AI, FastAPI & Power BI<br><br>💬 Ask me about: Python, SQL, Data Analytics, Machine Learning and Git<br><br>⚡ Fun fact: I love turning raw data into meaningful insights and building real-world AI solutions.
 
 
 ## 🌐 Socials:
